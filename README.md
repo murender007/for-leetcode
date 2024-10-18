@@ -1,2 +1,2 @@
-# for-leetcode
+# project
 for schoolwork
